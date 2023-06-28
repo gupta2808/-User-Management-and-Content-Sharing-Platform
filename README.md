@@ -1,2 +1,2 @@
-# User_Login_Module
-I developed the ( USER LOGIN MODULE ) where users can register , users can login and much more . I used Node.js And Express framework. And DataBase mongoDB And i used Mongoose framework for the connection between Application and DataBase.
+# User Management and Content Sharing Platform
+The goal of this project was to develop a web application that provides users with the ability to create accounts, log in, retrieve data, create posts, and upload images. The application aimed to create a user-friendly platform for managing user accounts and facilitating content sharing and interaction.
